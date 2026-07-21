@@ -1,3 +1,3 @@
 <p align="center">
-  <img src=download.gif>
+  <img src=Snowfall.gif>
 </p>
